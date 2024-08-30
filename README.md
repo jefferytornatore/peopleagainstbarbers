@@ -1,4 +1,4 @@
-# peopleagainstbarbers
+# People Against Barbers
 
 a nice site used for the defeating of mr. saville
 
